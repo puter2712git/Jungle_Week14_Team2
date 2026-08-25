@@ -325,20 +325,6 @@ Jungle_Week14_Team2/
 
 ---
 
-## 스크린샷
-
-> *(추가 예정 — `Docs/img/` 에 이미지를 넣고 아래 주석을 해제해 주세요)*
-
-<!--
-| 군중 전투 | 콤보 · 공중 저글 |
-| --- | --- |
-| ![](Docs/img/shot_crowd.png) | ![](Docs/img/shot_combo.png) |
-| **무쌍기** | **최종보스 Golem** |
-| ![](Docs/img/shot_ultimate.png) | ![](Docs/img/shot_boss.png) |
--->
-
----
-
 ## 사용 애셋
 
 캐릭터 · 애니메이션은 [Mixamo](https://www.mixamo.com/) 무료 애셋을 사용했으며,
